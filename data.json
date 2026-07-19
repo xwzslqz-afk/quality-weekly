@@ -1,10 +1,24 @@
 {
   "2026-W30": {
-    "department": "供应链与质量管理部",
+    "department": "质量部",
     "period": "",
     "author": "路清召",
     "status": "æ­£å¸¸",
     "overview": "1",
+    "indicators": [],
+    "events": [],
+    "risks": [],
+    "improvements": [],
+    "capability": [],
+    "decisions": [],
+    "nextFocus": ""
+  },
+  "2026-W29": {
+    "department": "质量部",
+    "period": "",
+    "author": "",
+    "status": "正常",
+    "overview": "",
     "indicators": [],
     "events": [],
     "risks": [],
