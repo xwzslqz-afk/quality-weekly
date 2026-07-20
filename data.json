@@ -1,10 +1,10 @@
 {
   "2026-W30": {
     "department": "质量部",
-    "period": "",
+    "period": "2026-07-20 - 2026-07-26",
     "author": "路清召",
-    "status": "æ­£å¸¸",
-    "overview": "1",
+    "status": "Ã¦Â­Â£Ã¥Â¸Â¸",
+    "overview": "",
     "indicators": [],
     "events": [],
     "risks": [],
@@ -14,8 +14,22 @@
     "nextFocus": ""
   },
   "2026-W29": {
-    "department": "质量部",
+    "department": "è´¨éé¨",
     "period": "",
+    "author": "",
+    "status": "æ­£å¸¸",
+    "overview": "",
+    "indicators": [],
+    "events": [],
+    "risks": [],
+    "improvements": [],
+    "capability": [],
+    "decisions": [],
+    "nextFocus": ""
+  },
+  "2026-W14": {
+    "department": "质量部",
+    "period": "2026-03-30 - 2026-04-05",
     "author": "",
     "status": "正常",
     "overview": "",
